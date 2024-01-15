@@ -1,1 +1,2 @@
-# Introducci-n-GitHub-Yadel-y-Pablo
+# Introducción-GitHub-Yadel-y-Pablo
+Actividad de introducción realizda por Yadel y Pablo
